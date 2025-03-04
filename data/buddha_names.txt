@@ -1,0 +1,259 @@
+{
+	"buddha": [{
+			"picture_name": "Palatkhik.png",
+			"thai_name": "ปลัดขิก"
+		},
+		{
+			"picture_name": "PangAthitthanPhetBanphachit.png",
+			"thai_name": "ปางอธิษฐานเพศบรรพชิต"
+		},
+		{
+			"picture_name": "PangPatchek.png",
+			"thai_name": "ปางปัจเจกขณ์"
+		},
+		{
+			"picture_name": "PangBamphenThukkarakiriya.png",
+			"thai_name": "ปางบำเพ็ญทุกรกิริยา"
+		},
+		{
+			"picture_name": "PangSubin.png",
+			"thai_name": "ปางสุบิน"
+		},
+		{
+			"picture_name": "PangRapMathupayat.png",
+			"thai_name": "ปางรับมธุปายาส"
+		},
+		{
+			"picture_name": "PangSawoeiMathupayat.png",
+			"thai_name": "ปางเสวยมธุปายาส"
+		},
+		{
+			"picture_name": "PangLoiThat.png",
+			"thai_name": "ปางลอยถาด"
+		},
+		{
+			"picture_name": "PangRapYaKha.png",
+			"thai_name": "ปางรับหญ้าคา"
+		},
+		{
+			"picture_name": "PangManwichai.png",
+			"thai_name": "ปางมารวิชัย"
+		},
+		{
+			"picture_name": "PangTratsaru.png",
+			"thai_name": "ปางตรัสรู้"
+		},
+		{
+			"picture_name": "PangThawaiNet.png",
+			"thai_name": "ปางถวายเนตร"
+		},
+		{
+			"picture_name": "PangChongkrom.png",
+			"thai_name": "ปางจงกลม"
+		},
+		{
+			"picture_name": "PangRueanKaew.png",
+			"thai_name": "ปางเรือนเเก้ว"
+		},
+		{
+			"picture_name": "PangNakProk.png",
+			"thai_name": "ปางนาคปรก"
+		},
+		{
+			"picture_name": "PangChanSamo.png",
+			"thai_name": "ปางฉันสมอ"
+		},
+		{
+			"picture_name": "PangPrasanBat.png",
+			"thai_name": "ปางประสานบาตร"
+		},
+		{
+			"picture_name": "PangRapSattaTuKonSattaTuPhong.png",
+			"thai_name": "ปางรับสัตตุก้อนสัตตุผง"
+		},
+		{
+			"picture_name": "PangPhraKetThat.png",
+			"thai_name": "ปางพระเกศธาตุ"
+		},
+		{
+			"picture_name": "PangRamphueng.png",
+			"thai_name": "ปางรำพึง"
+		},
+		{
+			"picture_name": "PangPathommathetsana.png",
+			"thai_name": "ปางปฐมเทศนา"
+		},
+		{
+			"picture_name": "PangPrathanAhiPhikkhu.png",
+			"thai_name": "ปางประทานเอหิภิกขุ"
+		},
+		{
+			"picture_name": "PangPhatkit.png",
+			"thai_name": "ปางภัตกิจ"
+		},
+		{
+			"picture_name": "PangHamsamut.png",
+			"thai_name": "ปางห้ามสมุทร"
+		},
+		{
+			"picture_name": "PangChiAkkharaSawok.png",
+			"thai_name": "ปางชี้อัครสาวก"
+		},
+		{
+			"picture_name": "PangSaDangOwatPatimok.png",
+			"thai_name": "ปางเเสดงโอวาทปาติโมกข์"
+		},
+		{
+			"picture_name": "PangPrathapRuea.png",
+			"thai_name": "ปางประทับเรือ"
+		},
+		{
+			"picture_name": "PangHamPhayat.png",
+			"thai_name": "ปางห้ามพยาธิ"
+		},
+		{
+			"picture_name": "PangSaDangItthipatihan.png",
+			"thai_name": "ปางเเสดงอิทธิปาฏิหาริย์"
+		},
+		{
+			"picture_name": "PangUmBat.png",
+			"thai_name": "ปางอุ้มบาตร"
+		},
+		{
+			"picture_name": "PangProtPhutBida.png",
+			"thai_name": "ปางโปรดพุทธบิดา"
+		},
+		{
+			"picture_name": "PangRapPhonMamuang.png",
+			"thai_name": "ปางรับผลมะม่วง"
+		},
+		{
+			"picture_name": "LuangPhoPrathanPhon.png",
+			"thai_name": "หลวงพ่อประทานพร"
+		},
+		{
+			"picture_name": "LuangPuthuat.png",
+			"thai_name": "หลวงปู่ทวด"
+		},
+		{
+			"picture_name": "OngChatuKhamRamThep.png",
+			"thai_name": "องค์จตุคามรามเทพ"
+		},
+		{
+			"picture_name": "PangParinipphan.png",
+			"thai_name": "ปางปรินิพพาน"
+		},
+		{
+			"picture_name": "PangPhisetPhraPatimaChaiWatPrachamRatchakanThi6.png",
+			"thai_name": "ปางพิเศษพระปฏิมาชัยวัฒน์ประจำรัชกาลที่ 6"
+		},
+		{
+			"picture_name": "PangProtSuPhatTha.png",
+			"thai_name": "ปางโปรดสุภัททะ"
+		},
+		{
+			"picture_name": "PangSongPhayakon.png",
+			"thai_name": "ปางทรงพยากรณ์"
+		},
+		{
+			"picture_name": "PhraIn.png",
+			"thai_name": "พระอินทร์"
+		},
+		{
+			"picture_name": "PhraKaeoMorako.png",
+			"thai_name": "พระเเก้วมรกต"
+		},
+		{
+			"picture_name": "PhraKan.png",
+			"thai_name": "พระกาฬ"
+		},
+		{
+			"picture_name": "PhraKringYai.png",
+			"thai_name": "พระกริ่งใหญ่"
+		},
+		{
+			"picture_name": "PhraLakMueang.png",
+			"thai_name": "พระหลักเมือง"
+		},
+		{
+			"picture_name": "PhraNakProk.png",
+			"thai_name": "พระนาคปรก"
+		},
+		{
+			"picture_name": "PhraPhrom.png",
+			"thai_name": "พระพรหม"
+		},
+		{
+			"picture_name": "PhraPhutChinRat.png",
+			"thai_name": "พระพุทธชินราช"
+		},
+		{
+			"picture_name": "PhraPhutNimitWichitMan.png",
+			"thai_name": "พระพุทธนิมิตวิชิตมาร"
+		},
+		{
+			"picture_name": "PhraPhutSaiyat.png",
+			"thai_name": "พระพุทธไสยาสน์"
+		},
+		{
+			"picture_name": "PhraphuttharupPangManwichai.png",
+			"thai_name": "พระพุทธรูปปางมารวิชัย"
+		},
+		{
+			"picture_name": "PhraphuttharupPangPrasuti.png",
+			"thai_name": "พระพุทธรูปปางประสูติ"
+		},
+		{
+			"picture_name": "PhraphuttharupPangRamphueng.png",
+			"thai_name": "พระพุทธรูปปางรำพึง"
+		},
+		{
+			"picture_name": "PhraphuttharupPangSamati.png",
+			"thai_name": "ชื่อภาษาไทย"
+		},
+		{
+			"picture_name": "PhraphuttharupPangSamatiLuangPhoWatRaiKhing.png",
+			"thai_name": "พระพุทธรูปปางสมาธิ(หลวงพ่อวัดไร่ขิง)"
+		},
+		{
+			"picture_name": "PhraphuttharupPangSamatLuangPhoSoThon.png",
+			"thai_name": "พระพุทธรูปปางสมาธิ(หลวงพ่อโสธร)"
+		},
+		{
+			"picture_name": "PhraphuttharupPangThawaiNet.png",
+			"thai_name": "พระพุทธรูปปางถวายเนตร"
+		},
+		{
+			"picture_name": "PhraphuttharupPangUmBat.png",
+			"thai_name": "พระพุทธรูปปางอุ้มบาตร"
+		},
+		{
+			"picture_name": "PhraphuttharupPangUmBatLuangPorBanLaem.png",
+			"thai_name": "พระพุทธรูปปางอุ้มบาตร(หลวงพ่อบ้านเเหลม)"
+		},
+		{
+			"picture_name": "PhraphuttharupSilaKhao.png",
+			"thai_name": "พระพุทธรูปศิลาขาว"
+		},
+		{
+			"picture_name": "PhraRuangRotNrit.png",
+			"thai_name": "พระร่วงโรจนฤทธิ์"
+		},
+		{
+			"picture_name": "PhraSangKatChai.png",
+			"thai_name": "พระสังกัจจายน์"
+		},
+		{
+			"picture_name": "PhraSiARi.png",
+			"thai_name": "พระศรีอาริย์"
+		},
+		{
+			"picture_name": "PhraSivali.png",
+			"thai_name": "พระสีวลี"
+		},
+		{
+			"picture_name": "PhraSueaMueang.png",
+			"thai_name": "พระเสื้อเมือง"
+		}
+	]
+}
