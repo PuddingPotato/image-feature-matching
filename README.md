@@ -1,4 +1,4 @@
-## image-feature-matching
+## Analysis of Buddha Images Around the Phra Pathom Chedi Using Feature Matching
 
 A computer vision project for identifying Buddha statues at Phra Pathom Chedi using image feature matching techniques.
 
