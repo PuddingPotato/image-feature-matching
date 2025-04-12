@@ -4,13 +4,13 @@ A computer vision project for identifying Buddha statues at Phra Pathom Chedi us
 
 --- 
 
-## 🎯 Project Overview
+## 🎯 **Project Overview**
 
 This project focuses on the recognition of Buddha statues around **Phra Pathom Chedi** by detecting and matching image features. A dataset was created from real-world photos taken around the site, and green screen techniques were applied to standardize backgrounds and improve detection performance.
 
 --- 
 
-## ⚙️ Workflow
+## ⚙️ **Workflow**
 
 1. **Data Collection**  
    - Photographs of Buddha statues were taken from various locations around Phra Pathom Chedi.
@@ -40,7 +40,7 @@ This project focuses on the recognition of Buddha statues around **Phra Pathom C
 
 --- 
 
-## 🔧 Tech Stack
+## 🔧 **Tech Stack**
 
 - **OpenCV**
 - **Pillow**
