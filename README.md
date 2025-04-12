@@ -23,10 +23,10 @@ This project focuses on the recognition of Buddha statues around **Phra Pathom C
 
 4. **Feature Detection & Matching**  
    - Uses the following algorithms:
-     - ORB
-     - AKAZE
-     - KAZE
-     - SIFT  
+     - **ORB**
+     - **AKAZE**
+     - **KAZE**
+     - **SIFT**  
    - Input images are compared against the dataset to find the most similar match.
 
 5. **Similarity Scoring**  
