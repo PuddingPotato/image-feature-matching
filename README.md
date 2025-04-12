@@ -19,7 +19,7 @@ This project focuses on the recognition of Buddha statues around **Phra Pathom C
    - Backgrounds were manually turned into green screen using **Paint**, **Photoshop**, or similar tools.
 
 3. **Metadata Annotation**  
-   - A `buddha_names.json` file maps image filenames to their corresponding Buddha statue names.
+   - A `buddha_names.txt` file maps image filenames to their corresponding Buddha statue names.
 
 4. **Feature Detection & Matching**  
    - Uses the following algorithms:
