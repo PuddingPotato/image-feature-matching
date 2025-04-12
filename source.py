@@ -2,7 +2,6 @@ import tkinter as tk
 from tkinter import *
 from tkinter.ttk import *
 from tkinter import filedialog, ttk
-import tkinter.font as font
 from PIL import Image, ImageTk
 import os
 import cv2
